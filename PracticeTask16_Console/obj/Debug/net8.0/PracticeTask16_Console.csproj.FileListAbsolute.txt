@@ -1,0 +1,14 @@
+C:\Users\Yaroslalalalave\source\repos\PracticeTask16_Console\PracticeTask16_Console\bin\Debug\net8.0\PracticeTask16_Console.exe
+C:\Users\Yaroslalalalave\source\repos\PracticeTask16_Console\PracticeTask16_Console\bin\Debug\net8.0\PracticeTask16_Console.deps.json
+C:\Users\Yaroslalalalave\source\repos\PracticeTask16_Console\PracticeTask16_Console\bin\Debug\net8.0\PracticeTask16_Console.runtimeconfig.json
+C:\Users\Yaroslalalalave\source\repos\PracticeTask16_Console\PracticeTask16_Console\bin\Debug\net8.0\PracticeTask16_Console.dll
+C:\Users\Yaroslalalalave\source\repos\PracticeTask16_Console\PracticeTask16_Console\bin\Debug\net8.0\PracticeTask16_Console.pdb
+C:\Users\Yaroslalalalave\source\repos\PracticeTask16_Console\PracticeTask16_Console\obj\Debug\net8.0\PracticeTask16_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaroslalalalave\source\repos\PracticeTask16_Console\PracticeTask16_Console\obj\Debug\net8.0\PracticeTask16_Console.AssemblyInfoInputs.cache
+C:\Users\Yaroslalalalave\source\repos\PracticeTask16_Console\PracticeTask16_Console\obj\Debug\net8.0\PracticeTask16_Console.AssemblyInfo.cs
+C:\Users\Yaroslalalalave\source\repos\PracticeTask16_Console\PracticeTask16_Console\obj\Debug\net8.0\PracticeTask16_Console.csproj.CoreCompileInputs.cache
+C:\Users\Yaroslalalalave\source\repos\PracticeTask16_Console\PracticeTask16_Console\obj\Debug\net8.0\PracticeTask16_Console.dll
+C:\Users\Yaroslalalalave\source\repos\PracticeTask16_Console\PracticeTask16_Console\obj\Debug\net8.0\refint\PracticeTask16_Console.dll
+C:\Users\Yaroslalalalave\source\repos\PracticeTask16_Console\PracticeTask16_Console\obj\Debug\net8.0\PracticeTask16_Console.pdb
+C:\Users\Yaroslalalalave\source\repos\PracticeTask16_Console\PracticeTask16_Console\obj\Debug\net8.0\PracticeTask16_Console.genruntimeconfig.cache
+C:\Users\Yaroslalalalave\source\repos\PracticeTask16_Console\PracticeTask16_Console\obj\Debug\net8.0\ref\PracticeTask16_Console.dll
